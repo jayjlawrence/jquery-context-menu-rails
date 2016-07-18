@@ -1,6 +1,6 @@
 # jquery-context-menu-rails-rails
 
-jquery-context-menu-rails-rails wraps the [jQuery contextMenu plugin & polyfill](http://swisnl.github.io/jQuery-contextMenu/index.html/) in a Rails engine for simple use with the asset pipeline provided by Rails 3.1 and higher. The gem includes the development (non-minified) source for ease of exploration. The asset pipeline will minify in production.
+jquery-context-menu-rails-rails wraps the [jQuery contextMenu plugin & polyfill](http://swisnl.github.io/jQuery-contextMenu/index.html) in a Rails engine for simple use with the asset pipeline provided by Rails 3.1 and higher. The gem includes the development (non-minified) source for ease of exploration. The asset pipeline will minify in production.
 
 ## Usage
 
