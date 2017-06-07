@@ -19,7 +19,7 @@ Add the following directive to your Javascript manifest file (application.js):
 Add the following directive to your CSS manifest (application.css) file depending on which theme you wish to use:
 
 ```
-*= jquery.contextMenu
+*= require jquery.contextMenu
 ```
 
 ## Versioning
