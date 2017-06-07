@@ -2,7 +2,7 @@ module Jquery
   module Context
     module Menu
       module Rails
-        VERSION = "2.2.3.1"
+        VERSION = "2.5.0"
       end
     end
   end

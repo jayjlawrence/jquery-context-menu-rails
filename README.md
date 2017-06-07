@@ -24,6 +24,6 @@ Add the following directive to your CSS manifest (application.css) file dependin
 
 ## Versioning
 
-jquery-context-menu-rails-rails 2.2.3 == jQuery contextMenu plugin 2.2.3
+jquery-context-menu-rails-rails 2.5.0 == jQuery contextMenu plugin 2.5.0
 
 Every attempt is made to mirror the currently shipping jQuery contextMenu pluginversion number wherever possible. The major, minor, and patch version numbers will always represent the jQuery contextMenu plugin library version. Should a gem bug be discovered, a 4th version identifier will be added and incremented.
