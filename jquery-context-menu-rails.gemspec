@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ryan.shaw@gmail.com"]
 
   spec.summary       = 'jQuery Context Menu for Rails'
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
   spec.files         = Dir['{lib,vendor}/**/*'] + ['LICENSE.txt', 'README.md']
